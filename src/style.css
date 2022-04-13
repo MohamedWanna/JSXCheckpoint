@@ -1,0 +1,15 @@
+.title.red{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+    font-style: italic;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px red;
+    }
+.title.red:hover{
+    box-shadow: 5px 10px 18px blue;
+}
+h2 {
+    text-decoration: underline double black;
+}
