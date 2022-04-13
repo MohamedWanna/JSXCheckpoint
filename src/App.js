@@ -8,10 +8,10 @@ function App() {
     <div className="App">
       <div style={{ border: "solid 100px black", maxwidth: "100vw" }}>
         <h1 className="title red">Mohamed Wanna</h1>
-        {"/n"}
+        {"\n"}
         <h2 style={{textAlign:'left', textIndent:'10%'}} className="subtitle">Images</h2>
         <img src={mountain} alt="mountain meet sea" width="1000px" height="800px"/>
-        {"/n"}
+        {"\n"}
         <img src={"/nature/freysteinngjonssonFQTPqLb3CAunsplash.jpg"} alt="nature" width="1000px" height="800px"/>
       </div>
       <div>
